@@ -1,5 +1,5 @@
 base-url: "https://ntfy.lepidus.me/"
-upstream-base-url: "https://ntfy.lepidus.me/"
+upstream-base-url: "https://ntfy.sh/"
 upstream-access-token: emhvdXBpbmcvMTMxNDIw
 cache-file: "/app/data/cache.db"
 cache-duration: "12h"

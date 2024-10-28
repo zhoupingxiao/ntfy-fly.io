@@ -26,7 +26,7 @@ fi
 # Check if the user database exists. If not, create an initial user.
 if [ ! -f "${NTFY_AUTH_FILE}" ]; then
   echo "Creating initial user..."
-  ntfy user add --role=admin Admin
+  ntfy user add --role=admin zhoupingxiao
 fi
 
 wait $ntfy_pid

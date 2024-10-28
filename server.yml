@@ -8,3 +8,8 @@ attachment-cache-dir: "/app/data/attachments"
 enable-login: true
 enable-reservations: true
 log-level: "debug"
+access:
+  '*':
+    'up*':
+      write: true
+      read: false

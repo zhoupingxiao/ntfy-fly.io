@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "ntfy-app"
+app = "ntfy-app-polished-feather-9584"
 primary_region = "scl"
 kill_signal = "SIGINT"
 kill_timeout = "5s"

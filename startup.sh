@@ -17,7 +17,7 @@ sleep 5
 if [ -z "$NTFY_PASSWORD" ]; then
   # NTFY_PASSWORD is empty, set a new value
   # Replace "your-password-here" with the actual password for initialization
-  export NTFY_PASSWORD="zhouping/131420"
+  export NTFY_PASSWORD="default_password"
 else
   # NTFY_PASSWORD is not empty, don't overwrite it
   echo "NTFY_PASSWORD is already set, not overwriting."

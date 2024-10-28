@@ -1,7 +1,11 @@
-base-url: "https://ntfy-app.fly.dev"
+base-url: "https://ntfy-app-polished-feather-9584.fly.dev/"
+upstream-base-url: "https://ntfy-app-polished-feather-9584.fly.dev/"
+upstream-access-token: emhvdXBpbmcvMTMxNDIw
 cache-file: "/app/data/cache.db"
 cache-duration: "12h"
 auth-file: "/app/data/user.db"
 auth-default-access: "deny-all"
 attachment-cache-dir: "/app/data/attachments"
+enable-login: true
+enable-reservations: true
 log-level: "debug"

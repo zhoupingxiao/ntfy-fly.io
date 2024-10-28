@@ -1,5 +1,5 @@
-base-url: "https://ntfy-app-polished-feather-9584.fly.dev/"
-upstream-base-url: "https://ntfy-app-polished-feather-9584.fly.dev/"
+base-url: "https://ntfy.lepidus.me/"
+upstream-base-url: "https://ntfy.lepidus.me/"
 upstream-access-token: emhvdXBpbmcvMTMxNDIw
 cache-file: "/app/data/cache.db"
 cache-duration: "12h"
